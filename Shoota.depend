@@ -1,0 +1,1214 @@
+# depslib dependency file v1.0
+1311535671 source:c:\c++\shoota\main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	"XpModule.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"MySoundBuffer.h"
+	<SFML/Audio/Sound.hpp>
+
+1311102117 o/Sound.hpp>
+
+1307911496 c:\c++\shoota\vector2d.h
+	<iostream>
+
+1311372554 
+
+1309627810 source:c:\c++\shoota\gameobject.cpp
+	<iostream>
+	"GameObject.h"
+
+1309627810 t.h"
+
+1309018596 c:\c++\shoota\gameobject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+
+1309628142 c:\c++\shoota\entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1310076216 c:\c++\shoota\databank.h
+	<map>
+	<string>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911402 h"
+
+1309629298 source:c:\c++\shoota\entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1309630974 "
+
+1311028618 source:c:\c++\shoota\databank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	<sstream>
+
+1307911402 source:c:\c++\shoota\vector2d.cpp
+	"Vector2d.h"
+
+1311372755 source:c:\c++\shoota\player.cpp
+	"Player.h"
+	"XpModule.h"
+
+1311372693 c:\c++\shoota\player.h
+	"Ship.h"
+
+1309630974 source:c:\c++\shoota\projectile.cpp
+	"Projectile.h"
+	"Message.h"
+
+1308427896 c:\c++\shoota\projectile.h
+	"GameObject.h"
+
+1308415901 c:\c++\shoota\const.h
+
+1308521994 source:c:\c++\shoota\message.cpp
+	"Message.h"
+
+1308688620 c:\c++\shoota\message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1308688620 ndler.h"
+
+1310331888 c:\c++\shoota\messagehandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1311372740 source:c:\c++\shoota\messagehandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+	"XpModule.h"
+
+1311372693 c:\c++\shoota\ship.h
+	"GameObject.h"
+
+1311372693 source:c:\c++\shoota\ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+	"XpModule.h"
+
+1311029836 source:c:\c++\shoota\enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+
+1308695068 c:\c++\shoota\enemy.h
+	"Ship.h"
+
+1308692160 source:c:\c++\shoota\ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1308692160 c:\c++\shoota\ai.h
+	<SFML/Window.hpp>
+
+1308692160 ow.hpp>
+
+1310074762 source:c:\c++\shoota\collisionsystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+
+1309100608 c:\c++\shoota\collisionsystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1310930318 c:\c++\shoota\enums.h
+
+1310937148 source:c:\c++\shoota\meter.cpp
+	"Meter.h"
+
+1309902828 c:\c++\shoota\meter.h
+	"Vector2d.h"
+	"Ship.h"
+	"SFML\Graphics.hpp"
+
+1309902828 hics.hpp"
+
+1310332688 c:\c++\shoota\mysoundbuffer.h
+	"DataBank.h"
+	<SFML/System/Resource.hpp>
+	<SFML/Audio/AudioResource.hpp>
+
+1310332688 o/AudioResource.hpp>
+
+1310332642 source:c:\c++\shoota\mysoundbuffer.cpp
+	"MySoundBuffer.h"
+
+1310332642 ffer.h"
+
+1310930618 source:c:\c++\shoota\collectable.cpp
+	"Collectable.h"
+
+1310932096 le.h"
+
+1310929620 c:\c++\shoota\collectable.h
+	"GameObject.h"
+
+1308692160 source:c:\users\sam\documents\programs\c++\shoota\ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1308692160 c:\users\sam\documents\programs\c++\shoota\ai.h
+	<SFML/Window.hpp>
+
+1308695068 c:\users\sam\documents\programs\c++\shoota\enemy.h
+	"Ship.h"
+
+1309210072 c:\users\sam\documents\programs\c++\shoota\ship.h
+	"GameObject.h"
+
+1309018596 c:\users\sam\documents\programs\c++\shoota\gameobject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+
+1309628142 c:\users\sam\documents\programs\c++\shoota\entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1310076216 c:\users\sam\documents\programs\c++\shoota\databank.h
+	<map>
+	<string>
+	"SFML\Graphics.hpp"
+	"SFML\Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911496 c:\users\sam\documents\programs\c++\shoota\vector2d.h
+	<iostream>
+
+1310930318 c:\users\sam\documents\programs\c++\shoota\enums.h
+
+1310930618 source:c:\users\sam\documents\programs\c++\shoota\collectable.cpp
+	"Collectable.h"
+
+1310929620 c:\users\sam\documents\programs\c++\shoota\collectable.h
+	"GameObject.h"
+
+1310074762 source:c:\users\sam\documents\programs\c++\shoota\collisionsystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+
+1309100608 c:\users\sam\documents\programs\c++\shoota\collisionsystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1311028618 source:c:\users\sam\documents\programs\c++\shoota\databank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	<sstream>
+
+1308688620 c:\users\sam\documents\programs\c++\shoota\message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1310331888 c:\users\sam\documents\programs\c++\shoota\messagehandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1311029836 source:c:\users\sam\documents\programs\c++\shoota\enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+
+1308427896 c:\users\sam\documents\programs\c++\shoota\projectile.h
+	"GameObject.h"
+
+1309629298 source:c:\users\sam\documents\programs\c++\shoota\entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1309627810 source:c:\users\sam\documents\programs\c++\shoota\gameobject.cpp
+	<iostream>
+	"GameObject.h"
+
+1308521994 source:c:\users\sam\documents\programs\c++\shoota\message.cpp
+	"Message.h"
+
+1310937148 source:c:\users\sam\documents\programs\c++\shoota\messagehandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+
+1310076034 c:\users\sam\documents\programs\c++\shoota\player.h
+	"Ship.h"
+
+1310937148 source:c:\users\sam\documents\programs\c++\shoota\meter.cpp
+	"Meter.h"
+
+1309902828 c:\users\sam\documents\programs\c++\shoota\meter.h
+	"Vector2d.h"
+	"Ship.h"
+	"SFML\Graphics.hpp"
+
+1310332642 source:c:\users\sam\documents\programs\c++\shoota\mysoundbuffer.cpp
+	"MySoundBuffer.h"
+
+1310332688 c:\users\sam\documents\programs\c++\shoota\mysoundbuffer.h
+	"DataBank.h"
+	<SFML/System/Resource.hpp>
+	<SFML/Audio/AudioResource.hpp>
+
+1309627810 source:c:\users\sam\documents\programs\c++\shoota\player.cpp
+	"Player.h"
+
+1309630974 source:c:\users\sam\documents\programs\c++\shoota\projectile.cpp
+	"Projectile.h"
+	"Message.h"
+
+1310932096 source:c:\users\sam\documents\programs\c++\shoota\ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+
+1307911402 source:c:\users\sam\documents\programs\c++\shoota\vector2d.cpp
+	"Vector2d.h"
+
+1311102117 source:c:\users\sam\documents\programs\c++\shoota\main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"MySoundBuffer.h"
+	<SFML/Audio/Sound.hpp>
+
+1311372554 c:\c++\shoota\xpmodule.h
+	<vector>
+
+1311536038 source:c:\c++\shoota\xpmodule.cpp
+	"XpModule.h"
+	<iostream>
+	"Player.h"
+
+1308692160 source:/home/sam/C++/Shoota/Ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1308692160 /home/sam/C++/Shoota/Ai.h
+	<SFML/Window.hpp>
+
+1308695068 /home/sam/C++/Shoota/Enemy.h
+	"Ship.h"
+
+1311372694 /home/sam/C++/Shoota/Ship.h
+	"GameObject.h"
+
+1312041042 /home/sam/C++/Shoota/GameObject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+	<SFML/Audio.hpp>
+
+1309628142 /home/sam/C++/Shoota/Entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1312225455 /home/sam/C++/Shoota/DataBank.h
+	<map>
+	<string>
+	"./SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911496 /home/sam/C++/Shoota/Vector2d.h
+	<iostream>
+
+1312228479 /home/sam/C++/Shoota/Enums.h
+
+1310930618 source:/home/sam/C++/Shoota/Collectable.cpp
+	"Collectable.h"
+
+1310929620 /home/sam/C++/Shoota/Collectable.h
+	"GameObject.h"
+
+1312225949 source:/home/sam/C++/Shoota/CollisionSystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+	"GameWindow.h"
+
+1309100608 /home/sam/C++/Shoota/CollisionSystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1312403457 source:/home/sam/C++/Shoota/DataBank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	"GameWindow.h"
+	"Player.h"
+	<sstream>
+
+1308688620 /home/sam/C++/Shoota/Message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1312224750 /home/sam/C++/Shoota/MessageHandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1312403457 source:/home/sam/C++/Shoota/Enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1308427896 /home/sam/C++/Shoota/Projectile.h
+	"GameObject.h"
+
+1311713875 source:/home/sam/C++/Shoota/Entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1312050628 source:/home/sam/C++/Shoota/GameObject.cpp
+	<iostream>
+	"GameObject.h"
+
+1311713875 source:/home/sam/C++/Shoota/Message.cpp
+	"Message.h"
+
+1312224985 source:/home/sam/C++/Shoota/MessageHandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+	"XpModule.h"
+
+1311372694 /home/sam/C++/Shoota/Player.h
+	"Ship.h"
+
+1311372556 /home/sam/C++/Shoota/XpModule.h
+	<vector>
+
+1312238830 source:/home/sam/C++/Shoota/Meter.cpp
+	"Meter.h"
+
+1311634016 /home/sam/C++/Shoota/Meter.h
+	"Vector2d.h"
+	"Ship.h"
+	<SFML/Graphics.hpp>
+
+1310332642 source:/home/sam/C++/Shoota/MySoundBuffer.cpp
+	"MySoundBuffer.h"
+
+1310332688 /home/sam/C++/Shoota/MySoundBuffer.h
+	"DataBank.h"
+	<SFML/System/Resource.hpp>
+	<SFML/Audio/AudioResource.hpp>
+
+1311372756 source:/home/sam/C++/Shoota/Player.cpp
+	"Player.h"
+	"XpModule.h"
+
+1312225643 source:/home/sam/C++/Shoota/Projectile.cpp
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1312403458 source:/home/sam/C++/Shoota/Ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+	"XpModule.h"
+
+1307911402 source:/home/sam/C++/Shoota/Vector2d.cpp
+	"Vector2d.h"
+
+1312235285 source:/home/sam/C++/Shoota/main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	"XpModule.h"
+	"GameWindow.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"GameState.h"
+	<SFML/Audio/Sound.hpp>
+
+1311633939 /home/sam/C++/Shoota/SFML/Graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PostFX.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/String.hpp>
+	<SFML/Graphics/View.hpp>
+
+1311633939 /home/sam/C++/Shoota/SFML/Audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
+1312403458 source:/home/sam/C++/Shoota/XpModule.cpp
+	"XpModule.h"
+	<iostream>
+	"Player.h"
+
+1312633742 /home/sam/C++/Shoota/GameWindow.h
+	<SFML/Graphics.hpp>
+	"Vector2d.h"
+	"Enums.h"
+	"DataBank.h"
+
+1312634028 source:/home/sam/C++/Shoota/GameWindow.cpp
+	"GameWindow.h"
+	"GameState.h"
+
+1312639461 /home/sam/C++/Shoota/GameState.h
+	"GameWindow.h"
+	"Player.h"
+	"pausableclock.hpp"
+
+1312236482 source:/home/sam/C++/Shoota/GameState.cpp
+	"GameState.h"
+
+1312643041 source:/home/sam/C++/Shoota/PlayGameState.cpp
+	"GameWindow.h"
+	<iostream>
+	"GameState.h"
+	"Player.h"
+	"Projectile.h"
+	"XpModule.h"
+	"Enemy.h"
+	<sstream>
+	"Meter.h"
+	"MessageHandler.h"
+	<fstream>
+
+1312636569 source:/home/sam/C++/Shoota/PauseGameState.cpp
+	"GameState.h"
+
+1312639250 /home/sam/C++/Shoota/pausableclock.hpp
+	<SFML/System.hpp>
+
+1308692160 source:/home/sam/Dropbox/Programs/Shoota/Ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1308692160 /home/sam/Dropbox/Programs/Shoota/Ai.h
+	<SFML/Window.hpp>
+
+1308695068 /home/sam/Dropbox/Programs/Shoota/Enemy.h
+	"Ship.h"
+
+1311372694 /home/sam/Dropbox/Programs/Shoota/Ship.h
+	"GameObject.h"
+
+1312041042 /home/sam/Dropbox/Programs/Shoota/GameObject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+	<SFML/Audio.hpp>
+
+1309628142 /home/sam/Dropbox/Programs/Shoota/Entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1312225455 /home/sam/Dropbox/Programs/Shoota/DataBank.h
+	<map>
+	<string>
+	"./SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911496 /home/sam/Dropbox/Programs/Shoota/Vector2d.h
+	<iostream>
+
+1312228479 /home/sam/Dropbox/Programs/Shoota/Enums.h
+
+1310930618 source:/home/sam/Dropbox/Programs/Shoota/Collectable.cpp
+	"Collectable.h"
+
+1310929620 /home/sam/Dropbox/Programs/Shoota/Collectable.h
+	"GameObject.h"
+
+1312225949 source:/home/sam/Dropbox/Programs/Shoota/CollisionSystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+	"GameWindow.h"
+
+1309100608 /home/sam/Dropbox/Programs/Shoota/CollisionSystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1312633742 /home/sam/Dropbox/Programs/Shoota/GameWindow.h
+	<SFML/Graphics.hpp>
+	"Vector2d.h"
+	"Enums.h"
+	"DataBank.h"
+
+1312403457 source:/home/sam/Dropbox/Programs/Shoota/DataBank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	"GameWindow.h"
+	"Player.h"
+	<sstream>
+
+1308688620 /home/sam/Dropbox/Programs/Shoota/Message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1312224750 /home/sam/Dropbox/Programs/Shoota/MessageHandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1311372694 /home/sam/Dropbox/Programs/Shoota/Player.h
+	"Ship.h"
+
+1312403457 source:/home/sam/Dropbox/Programs/Shoota/Enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1308427896 /home/sam/Dropbox/Programs/Shoota/Projectile.h
+	"GameObject.h"
+
+1311713875 source:/home/sam/Dropbox/Programs/Shoota/Entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1312050628 source:/home/sam/Dropbox/Programs/Shoota/GameObject.cpp
+	<iostream>
+	"GameObject.h"
+
+1312236482 source:/home/sam/Dropbox/Programs/Shoota/GameState.cpp
+	"GameState.h"
+
+1312639461 /home/sam/Dropbox/Programs/Shoota/GameState.h
+	"GameWindow.h"
+	"Player.h"
+	"pausableclock.hpp"
+
+1312639250 /home/sam/Dropbox/Programs/Shoota/pausableclock.hpp
+	<SFML/System.hpp>
+
+1312634028 source:/home/sam/Dropbox/Programs/Shoota/GameWindow.cpp
+	"GameWindow.h"
+	"GameState.h"
+
+1311713875 source:/home/sam/Dropbox/Programs/Shoota/Message.cpp
+	"Message.h"
+
+1312224985 source:/home/sam/Dropbox/Programs/Shoota/MessageHandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+	"XpModule.h"
+
+1311372556 /home/sam/Dropbox/Programs/Shoota/XpModule.h
+	<vector>
+
+1312238830 source:/home/sam/Dropbox/Programs/Shoota/Meter.cpp
+	"Meter.h"
+
+1311634016 /home/sam/Dropbox/Programs/Shoota/Meter.h
+	"Vector2d.h"
+	"Ship.h"
+	<SFML/Graphics.hpp>
+
+1312648103 source:/home/sam/Dropbox/Programs/Shoota/PauseGameState.cpp
+	"GameState.h"
+
+1312643041 source:/home/sam/Dropbox/Programs/Shoota/PlayGameState.cpp
+	"GameWindow.h"
+	<iostream>
+	"GameState.h"
+	"Player.h"
+	"Projectile.h"
+	"XpModule.h"
+	"Enemy.h"
+	<sstream>
+	"Meter.h"
+	"MessageHandler.h"
+	<fstream>
+
+1311372756 source:/home/sam/Dropbox/Programs/Shoota/Player.cpp
+	"Player.h"
+	"XpModule.h"
+
+1312225643 source:/home/sam/Dropbox/Programs/Shoota/Projectile.cpp
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1312403458 source:/home/sam/Dropbox/Programs/Shoota/Ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+	"XpModule.h"
+
+1307911402 source:/home/sam/Dropbox/Programs/Shoota/Vector2d.cpp
+	"Vector2d.h"
+
+1312403458 source:/home/sam/Dropbox/Programs/Shoota/XpModule.cpp
+	"XpModule.h"
+	<iostream>
+	"Player.h"
+
+1312235285 source:/home/sam/Dropbox/Programs/Shoota/main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	"XpModule.h"
+	"GameWindow.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"GameState.h"
+	<SFML/Audio/Sound.hpp>
+
+1308692160 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1317762502 c:\documents and settings\me\my documents\dropbox\programs\shoota\ai.h
+	"SFML/Window.hpp"
+
+1308695068 c:\documents and settings\me\my documents\dropbox\programs\shoota\enemy.h
+	"Ship.h"
+
+1311372694 c:\documents and settings\me\my documents\dropbox\programs\shoota\ship.h
+	"GameObject.h"
+
+1312041042 c:\documents and settings\me\my documents\dropbox\programs\shoota\gameobject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+	<SFML/Audio.hpp>
+
+1309628142 c:\documents and settings\me\my documents\dropbox\programs\shoota\entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1317762496 c:\documents and settings\me\my documents\dropbox\programs\shoota\databank.h
+	<map>
+	<string>
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911496 c:\documents and settings\me\my documents\dropbox\programs\shoota\vector2d.h
+	<iostream>
+
+1312228479 c:\documents and settings\me\my documents\dropbox\programs\shoota\enums.h
+
+1310930618 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\collectable.cpp
+	"Collectable.h"
+
+1310929620 c:\documents and settings\me\my documents\dropbox\programs\shoota\collectable.h
+	"GameObject.h"
+
+1312225949 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\collisionsystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+	"GameWindow.h"
+
+1309100608 c:\documents and settings\me\my documents\dropbox\programs\shoota\collisionsystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1312633742 c:\documents and settings\me\my documents\dropbox\programs\shoota\gamewindow.h
+	<SFML/Graphics.hpp>
+	"Vector2d.h"
+	"Enums.h"
+	"DataBank.h"
+
+1312403457 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\databank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	"GameWindow.h"
+	"Player.h"
+	<sstream>
+
+1308688620 c:\documents and settings\me\my documents\dropbox\programs\shoota\message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1312224750 c:\documents and settings\me\my documents\dropbox\programs\shoota\messagehandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1311372694 c:\documents and settings\me\my documents\dropbox\programs\shoota\player.h
+	"Ship.h"
+
+1312403457 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1308427896 c:\documents and settings\me\my documents\dropbox\programs\shoota\projectile.h
+	"GameObject.h"
+
+1311713875 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1312050628 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\gameobject.cpp
+	<iostream>
+	"GameObject.h"
+
+1312236482 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\gamestate.cpp
+	"GameState.h"
+
+1312639461 c:\documents and settings\me\my documents\dropbox\programs\shoota\gamestate.h
+	"GameWindow.h"
+	"Player.h"
+	"pausableclock.hpp"
+
+1312639250 c:\documents and settings\me\my documents\dropbox\programs\shoota\pausableclock.hpp
+	<SFML/System.hpp>
+
+1312634028 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\gamewindow.cpp
+	"GameWindow.h"
+	"GameState.h"
+
+1311713875 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\message.cpp
+	"Message.h"
+
+1312224985 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\messagehandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+	"XpModule.h"
+
+1311372556 c:\documents and settings\me\my documents\dropbox\programs\shoota\xpmodule.h
+	<vector>
+
+1312238830 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\meter.cpp
+	"Meter.h"
+
+1311634016 c:\documents and settings\me\my documents\dropbox\programs\shoota\meter.h
+	"Vector2d.h"
+	"Ship.h"
+	<SFML/Graphics.hpp>
+
+1312648103 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\pausegamestate.cpp
+	"GameState.h"
+
+1312643041 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\playgamestate.cpp
+	"GameWindow.h"
+	<iostream>
+	"GameState.h"
+	"Player.h"
+	"Projectile.h"
+	"XpModule.h"
+	"Enemy.h"
+	<sstream>
+	"Meter.h"
+	"MessageHandler.h"
+	<fstream>
+
+1311372756 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\player.cpp
+	"Player.h"
+	"XpModule.h"
+
+1312225643 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\projectile.cpp
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1312403458 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+	"XpModule.h"
+
+1307911402 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\vector2d.cpp
+	"Vector2d.h"
+
+1312403458 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\xpmodule.cpp
+	"XpModule.h"
+	<iostream>
+	"Player.h"
+
+1312235285 source:c:\documents and settings\me\my documents\dropbox\programs\shoota\main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	"XpModule.h"
+	"GameWindow.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"GameState.h"
+	<SFML/Audio/Sound.hpp>
+
+1308692160 source:c:\users\sam\dropbox\programs\shoota\ai.cpp
+	"Ai.h"
+	"Enemy.h"
+	<iostream>
+
+1317762502 c:\users\sam\dropbox\programs\shoota\ai.h
+	"SFML/Window.hpp"
+
+1308695068 c:\users\sam\dropbox\programs\shoota\enemy.h
+	"Ship.h"
+
+1311372694 c:\users\sam\dropbox\programs\shoota\ship.h
+	"GameObject.h"
+
+1312041042 c:\users\sam\dropbox\programs\shoota\gameobject.h
+	"Entity.h"
+	"Vector2d.h"
+	<map>
+	<string>
+	<list>
+	<SFML/Audio.hpp>
+
+1309628142 c:\users\sam\dropbox\programs\shoota\entity.h
+	"DataBank.h"
+	"Enums.h"
+
+1317762496 c:\users\sam\dropbox\programs\shoota\databank.h
+	<map>
+	<string>
+	"SFML/Graphics.hpp"
+	"SFML/Audio.hpp"
+	"Vector2d.h"
+	<list>
+
+1307911496 c:\users\sam\dropbox\programs\shoota\vector2d.h
+	<iostream>
+
+1312228479 c:\users\sam\dropbox\programs\shoota\enums.h
+
+1310930618 source:c:\users\sam\dropbox\programs\shoota\collectable.cpp
+	"Collectable.h"
+
+1310929620 c:\users\sam\dropbox\programs\shoota\collectable.h
+	"GameObject.h"
+
+1312225949 source:c:\users\sam\dropbox\programs\shoota\collisionsystem.cpp
+	"CollisionSystem.h"
+	"DataBank.h"
+	"GameObject.h"
+	"GameWindow.h"
+
+1309100608 c:\users\sam\dropbox\programs\shoota\collisionsystem.h
+	"Vector2d.h"
+	<vector>
+	<list>
+	"Entity.h"
+
+1312633742 c:\users\sam\dropbox\programs\shoota\gamewindow.h
+	<SFML/Graphics.hpp>
+	"Vector2d.h"
+	"Enums.h"
+	"DataBank.h"
+
+1312403457 source:c:\users\sam\dropbox\programs\shoota\databank.cpp
+	"DataBank.h"
+	<iostream>
+	<fstream>
+	"GameObject.h"
+	"CollisionSystem.h"
+	"Collectable.h"
+	"Enemy.h"
+	"Message.h"
+	"GameWindow.h"
+	"Player.h"
+	<sstream>
+
+1308688620 c:\users\sam\dropbox\programs\shoota\message.h
+	"Entity.h"
+	<vector>
+	<string>
+	"MessageHandler.h"
+
+1312224750 c:\users\sam\dropbox\programs\shoota\messagehandler.h
+	<SFML/Window.hpp>
+	<list>
+	"DataBank.h"
+
+1311372694 c:\users\sam\dropbox\programs\shoota\player.h
+	"Ship.h"
+
+1312403457 source:c:\users\sam\dropbox\programs\shoota\enemy.cpp
+	"Enemy.h"
+	"GameObject.h"
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1308427896 c:\users\sam\dropbox\programs\shoota\projectile.h
+	"GameObject.h"
+
+1311713875 source:c:\users\sam\dropbox\programs\shoota\entity.cpp
+	"Entity.h"
+	<iostream>
+	"Message.h"
+
+1312050628 source:c:\users\sam\dropbox\programs\shoota\gameobject.cpp
+	<iostream>
+	"GameObject.h"
+
+1312236482 source:c:\users\sam\dropbox\programs\shoota\gamestate.cpp
+	"GameState.h"
+
+1312639461 c:\users\sam\dropbox\programs\shoota\gamestate.h
+	"GameWindow.h"
+	"Player.h"
+	"pausableclock.hpp"
+
+1312639250 c:\users\sam\dropbox\programs\shoota\pausableclock.hpp
+	<SFML/System.hpp>
+
+1312634028 source:c:\users\sam\dropbox\programs\shoota\gamewindow.cpp
+	"GameWindow.h"
+	"GameState.h"
+
+1311713875 source:c:\users\sam\dropbox\programs\shoota\message.cpp
+	"Message.h"
+
+1312224985 source:c:\users\sam\dropbox\programs\shoota\messagehandler.cpp
+	"MessageHandler.h"
+	"Message.h"
+	"GameObject.h"
+	"Ship.h"
+	"Projectile.h"
+	"Player.h"
+	"XpModule.h"
+
+1311372556 c:\users\sam\dropbox\programs\shoota\xpmodule.h
+	<vector>
+
+1312238830 source:c:\users\sam\dropbox\programs\shoota\meter.cpp
+	"Meter.h"
+
+1311634016 c:\users\sam\dropbox\programs\shoota\meter.h
+	"Vector2d.h"
+	"Ship.h"
+	<SFML/Graphics.hpp>
+
+1312648103 source:c:\users\sam\dropbox\programs\shoota\pausegamestate.cpp
+	"GameState.h"
+
+1317762939 source:c:\users\sam\dropbox\programs\shoota\playgamestate.cpp
+	"GameWindow.h"
+	<iostream>
+	"GameState.h"
+	"Player.h"
+	"Projectile.h"
+	"XpModule.h"
+	"Enemy.h"
+	<sstream>
+	"Meter.h"
+	"MessageHandler.h"
+	<fstream>
+
+1311372756 source:c:\users\sam\dropbox\programs\shoota\player.cpp
+	"Player.h"
+	"XpModule.h"
+
+1312225643 source:c:\users\sam\dropbox\programs\shoota\projectile.cpp
+	"Projectile.h"
+	"Message.h"
+	"GameWindow.h"
+
+1312403458 source:c:\users\sam\dropbox\programs\shoota\ship.cpp
+	"Ship.h"
+	"Message.h"
+	"Player.h"
+	"Collectable.h"
+	"XpModule.h"
+
+1307911402 source:c:\users\sam\dropbox\programs\shoota\vector2d.cpp
+	"Vector2d.h"
+
+1312235285 source:c:\users\sam\dropbox\programs\shoota\main.cpp
+	<iostream>
+	"Vector2d.h"
+	"Player.h"
+	"Enemy.h"
+	"Projectile.h"
+	"MessageHandler.h"
+	"Message.h"
+	"CollisionSystem.h"
+	"Meter.h"
+	"XpModule.h"
+	"GameWindow.h"
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<algorithm>
+	<iterator>
+	"GameState.h"
+	<SFML/Audio/Sound.hpp>
+
+1317762965 source:c:\users\sam\dropbox\programs\shoota\xpmodule.cpp
+	"XpModule.h"
+	<iostream>
+	"Player.h"
+
